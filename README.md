@@ -1,3 +1,5 @@
+# Screenshot
+![screen](https://github.com/dalkiran1907/React-Admin-Dashboard/blob/main/src/imgs/screen.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
